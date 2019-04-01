@@ -10,8 +10,8 @@ def subtract(x, y):
 
 # This function multiplies two numbers
 def multiply(x, y):
-   return x * y
-   Secondtry part 2
+   return x * y * 2
+   Secondtry part 3
 
 # This function divides two numbers
 def divide(x, y):
