@@ -10,6 +10,7 @@ def subtract(x, y):
 
 # This function multiplies two numbers
 def multiply(x, y):
+<<<<<<< HEAD
    return x * y * 2
    Secondtry part 3
 
